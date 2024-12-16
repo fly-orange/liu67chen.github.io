@@ -14,13 +14,13 @@ Education Background
 ======
 * Sep. 2021 - present: Ph.D. Student
 
-[NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Shibo He, Prof. Jiming Chen
+  [NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Shibo He, Prof. Jiming Chen
 
 * Sep. 2019 - Sep. 2021, Matser Student
 
-[NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Jiming Chen
+  [NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Jiming Chen
 
 * Sep. 2015 - Jun. 2019, B.S. Student
 
-Nanjing University of Science and Technology
+  Nanjing University of Science and Technology
 
