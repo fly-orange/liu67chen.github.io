@@ -20,7 +20,7 @@ Education Background
 
 [NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Jiming Chen
 
-*Sep. 2016 - Jun. 2020, B.S. Student
+*Sep. 2015 - Jun. 2019, B.S. Student
 
 Nanjing University of Science and Technology
 
