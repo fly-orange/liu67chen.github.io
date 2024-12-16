@@ -12,15 +12,15 @@ Welcome to my homepage! I am pursuing the Ph.D. degree with the College of Contr
 
 Education Background
 ======
-*Sep. 2021 - present: Ph.D. Student
+* Sep. 2021 - present: Ph.D. Student
 
 [NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Shibo He, Prof. Jiming Chen
 
-*Sep. 2019 - Sep. 2021, Matser Student
+* Sep. 2019 - Sep. 2021, Matser Student
 
 [NeSC Group](http://nesc.zju.edu.cn/#/), Zhejiang University. Advisor: Prof. Jiming Chen
 
-*Sep. 2015 - Jun. 2019, B.S. Student
+* Sep. 2015 - Jun. 2019, B.S. Student
 
 Nanjing University of Science and Technology
 
